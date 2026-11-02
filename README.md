@@ -53,20 +53,6 @@
 
 ---
 
-## ♡ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=palawatnantatchaporn-gif&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=888888" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palawatnantatchaporn-gif&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA" alt="Top Languages" />
-
-</div>
-
----
-
 ## ♡ Socials
 
 <div align="center">
